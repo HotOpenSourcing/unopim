@@ -1,11 +1,9 @@
-.env
 .env.testing
 .env.hostbak.*
 tests/e2e-pw/dbg.mjs
 .idea
 .php_cs.cache
 .phpunit.result.cache
-.vscode
 .vagrant
 *.hot
 /stubs
@@ -79,3 +77,4 @@ tests/e2e-pw/.secrets.local
 
 # local verification stamp written by unopim-verify; never committed
 /.verify-stamp
+config.bat
